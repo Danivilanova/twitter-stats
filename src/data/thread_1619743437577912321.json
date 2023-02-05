@@ -1,0 +1,3939 @@
+{
+  "data": [
+    {
+      "author_id": "821552896810565632",
+      "edit_history_tweet_ids": ["1620091772952285185"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ]
+      },
+      "id": "1620091772952285185",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "impression_count": 2
+      },
+      "created_at": "2023-01-30T16:09:13.000Z",
+      "text": "@leeerob @nextjs 👀👀👀",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "1605581",
+      "edit_history_tweet_ids": ["1620084971296915457"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          },
+          {
+            "start": 37,
+            "end": 46,
+            "username": "GatsbyJS",
+            "id": "3227338044"
+          }
+        ]
+      },
+      "id": "1620084971296915457",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "impression_count": 3
+      },
+      "created_at": "2023-01-30T15:42:11.000Z",
+      "text": "@leeerob @nextjs The new Head API in @GatsbyJS already has this. Nice to see Next.js catching up!",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "1168003019620773888",
+      "edit_history_tweet_ids": ["1620084257908719617"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ]
+      },
+      "id": "1620084257908719617",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "impression_count": 29
+      },
+      "created_at": "2023-01-30T15:39:21.000Z",
+      "text": "@leeerob @nextjs This is a game-changer!",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "1376488772326600706",
+      "edit_history_tweet_ids": ["1620077930293628928"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 33,
+            "end": 38,
+            "probability": 0.3634,
+            "type": "Organization",
+            "normalized_text": "nextjs"
+          }
+        ]
+      },
+      "id": "1620077930293628928",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "impression_count": 1
+      },
+      "created_at": "2023-01-30T15:14:12.000Z",
+      "text": "@leeerob @nextjs Integrated with nextjs 13 or as a third-party library for nextjs 13",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "705536987621662720",
+      "edit_history_tweet_ids": ["1620070901705490432"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          },
+          {
+            "start": 17,
+            "end": 27,
+            "username": "remix_run",
+            "id": "1250847387062419456"
+          }
+        ]
+      },
+      "id": "1620070901705490432",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "impression_count": 9
+      },
+      "created_at": "2023-01-30T14:46:17.000Z",
+      "text": "@leeerob @nextjs @remix_run anybody?",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "384338897",
+      "edit_history_tweet_ids": ["1620069316141142016"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ]
+      },
+      "id": "1620069316141142016",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "impression_count": 87
+      },
+      "created_at": "2023-01-30T14:39:59.000Z",
+      "text": "@leeerob @nextjs You know when something is really dope when it becomes instantly obvious in retrospect",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "1202637081467670528",
+      "edit_history_tweet_ids": ["1620068013566488576"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          },
+          {
+            "start": 17,
+            "end": 31,
+            "username": "oarthurezende",
+            "id": "1066422307822931972"
+          }
+        ]
+      },
+      "id": "1620068013566488576",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "impression_count": 15
+      },
+      "created_at": "2023-01-30T14:34:48.000Z",
+      "text": "@leeerob @nextjs @oarthurezende",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "1504909818347335684",
+      "edit_history_tweet_ids": ["1620056292407787523"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 110,
+            "end": 112,
+            "probability": 0.5828,
+            "type": "Other",
+            "normalized_text": "SEO"
+          }
+        ]
+      },
+      "id": "1620056292407787523",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "impression_count": 15
+      },
+      "created_at": "2023-01-30T13:48:13.000Z",
+      "text": "@leeerob @nextjs This looks cool! It looks like this would only work for static data. Sometimes I like to set SEO props dynamically based on page props. Should the exported type optionally be a function?\n\nexport const metadata = (pageProps) =&gt; ({ ... })",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "1004550716197924864",
+      "edit_history_tweet_ids": ["1620051008251645953"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ]
+      },
+      "id": "1620051008251645953",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "impression_count": 14
+      },
+      "created_at": "2023-01-30T13:27:14.000Z",
+      "text": "@leeerob @nextjs Nice!",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "728158647122022400",
+      "edit_history_tweet_ids": ["1620050189716426759"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ]
+      },
+      "id": "1620050189716426759",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "impression_count": 54
+      },
+      "created_at": "2023-01-30T13:23:58.000Z",
+      "text": "@leeerob @nextjs How would you remove a field deep down a nested page? Set it to null?",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "50549691",
+      "edit_history_tweet_ids": ["1620046826434101254"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ]
+      },
+      "id": "1620046826434101254",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "impression_count": 10
+      },
+      "created_at": "2023-01-30T13:10:37.000Z",
+      "text": "@leeerob @nextjs QQ: does it use next-seo underneath or something else? 🤔",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "1254636602455764992",
+      "edit_history_tweet_ids": ["1620045405210939393"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ]
+      },
+      "id": "1620045405210939393",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "impression_count": 16
+      },
+      "created_at": "2023-01-30T13:04:58.000Z",
+      "text": "@leeerob @nextjs guess no more next-seo",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "50549691",
+      "edit_history_tweet_ids": ["1620043763765903361"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ]
+      },
+      "id": "1620043763765903361",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "impression_count": 11
+      },
+      "created_at": "2023-01-30T12:58:26.000Z",
+      "text": "@leeerob @nextjs Curious to see how it would handle autogenerated pages (e.g. a blog post) 🤔",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "1392432987422093313",
+      "edit_history_tweet_ids": ["1620030371810377728"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ]
+      },
+      "id": "1620030371810377728",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "impression_count": 6
+      },
+      "created_at": "2023-01-30T12:05:14.000Z",
+      "text": "@leeerob @nextjs That's so cool, I really wanted that for a long time. It's gonna be a huge thing for me.",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "86857898",
+      "edit_history_tweet_ids": ["1620025700026810369"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ]
+      },
+      "id": "1620025700026810369",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "impression_count": 9
+      },
+      "created_at": "2023-01-30T11:46:40.000Z",
+      "text": "@leeerob @nextjs This is getting better! 🤓",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "24202643",
+      "edit_history_tweet_ids": ["1620024631510827010"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ],
+        "urls": [
+          {
+            "start": 55,
+            "end": 78,
+            "url": "https://t.co/deCyrxTivC",
+            "expanded_url": "https://github.com/garmeeh/next-seo",
+            "display_url": "github.com/garmeeh/next-s…",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1619786165099565056/ZwXcGlk6?format=jpg&name=orig",
+                "width": 1200,
+                "height": 600
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1619786165099565056/ZwXcGlk6?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "GitHub - garmeeh/next-seo: Next SEO is a plug in that makes managing your SEO easier in Next.js projects.",
+            "description": "Next SEO is a plug in that makes managing your SEO easier in Next.js projects. - GitHub - garmeeh/next-seo: Next SEO is a plug in that makes managing your SEO easier in Next.js projects.",
+            "unwound_url": "https://github.com/garmeeh/next-seo"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 49,
+            "end": 51,
+            "probability": 0.3873,
+            "type": "Other",
+            "normalized_text": "seo"
+          }
+        ]
+      },
+      "id": "1620024631510827010",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "impression_count": 21
+      },
+      "created_at": "2023-01-30T11:42:25.000Z",
+      "text": "@leeerob @nextjs How is this different from next-seo?\n\nhttps://t.co/deCyrxTivC",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "952207961052598272",
+      "edit_history_tweet_ids": ["1620009233331924992"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ],
+        "urls": [
+          {
+            "start": 17,
+            "end": 40,
+            "url": "https://t.co/MYZLc9HMyz",
+            "expanded_url": "https://twitter.com/fojyro/status/1620009233331924992/photo/1",
+            "display_url": "pic.twitter.com/MYZLc9HMyz",
+            "media_key": "16_1620009223961677825"
+          }
+        ]
+      },
+      "id": "1620009233331924992",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "impression_count": 0
+      },
+      "created_at": "2023-01-30T10:41:14.000Z",
+      "text": "@leeerob @nextjs https://t.co/MYZLc9HMyz",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "1159799889582276608",
+      "edit_history_tweet_ids": ["1620002017602326528"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 89,
+            "end": 97,
+            "probability": 0.808,
+            "type": "Other",
+            "normalized_text": "Vercel OG"
+          }
+        ]
+      },
+      "id": "1620002017602326528",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "impression_count": 12
+      },
+      "created_at": "2023-01-30T10:12:33.000Z",
+      "text": "@leeerob @nextjs This is huge! No need to use an external library, and pairing that with Vercel OG should make meta management a breeze 🔥🔥🔥\n\nNext step is sitemap generation!",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "36312769",
+      "edit_history_tweet_ids": ["1620000022971715584"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ]
+      },
+      "id": "1620000022971715584",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "impression_count": 11
+      },
+      "created_at": "2023-01-30T10:04:38.000Z",
+      "text": "@leeerob @nextjs 🔥",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "1439224352797609988",
+      "edit_history_tweet_ids": ["1619998783034781698"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ]
+      },
+      "id": "1619998783034781698",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "impression_count": 4
+      },
+      "created_at": "2023-01-30T09:59:42.000Z",
+      "text": "@leeerob @nextjs Any  way to contribute?",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "1228773712658386946",
+      "edit_history_tweet_ids": ["1619992130071711747"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ]
+      },
+      "id": "1619992130071711747",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 3,
+        "quote_count": 0,
+        "impression_count": 64
+      },
+      "created_at": "2023-01-30T09:33:16.000Z",
+      "text": "@leeerob @nextjs Will it include sitemaps generation?",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "3265868971",
+      "edit_history_tweet_ids": ["1619987161868308480"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ]
+      },
+      "id": "1619987161868308480",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "impression_count": 7
+      },
+      "created_at": "2023-01-30T09:13:31.000Z",
+      "text": "@leeerob @nextjs Would this support json-ld?",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "1296047337022742529",
+      "edit_history_tweet_ids": ["1619986235292004353"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ],
+        "urls": [
+          {
+            "start": 96,
+            "end": 119,
+            "url": "https://t.co/gqVkwu9yC3",
+            "expanded_url": "https://github.com/harlan-zw/zhead",
+            "display_url": "github.com/harlan-zw/zhead",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1619986287309770752/7FvisYoH?format=jpg&name=orig",
+                "width": 1200,
+                "height": 600
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1619986287309770752/7FvisYoH?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "GitHub - harlan-zw/zhead: Fully-typed utilities for defining, validating and building your document . Powers unhead",
+            "description": "Fully-typed utilities for defining, validating and building your document . Powers unhead - GitHub - harlan-zw/zhead: Fully-typed utilities for defining, validating and building...",
+            "unwound_url": "https://github.com/harlan-zw/zhead"
+          },
+          {
+            "start": 162,
+            "end": 185,
+            "url": "https://t.co/PXiy1CdnyQ",
+            "expanded_url": "https://twitter.com/harlan_zw/status/1619986235292004353/photo/1",
+            "display_url": "pic.twitter.com/PXiy1CdnyQ",
+            "media_key": "3_1619985673079119873"
+          }
+        ]
+      },
+      "id": "1619986235292004353",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 3,
+        "like_count": 14,
+        "quote_count": 1,
+        "impression_count": 969
+      },
+      "created_at": "2023-01-30T09:09:51.000Z",
+      "text": "@leeerob @nextjs This just landed in Nuxt 3.1 with the useSeoMeta composable. \n\nFully typed via https://t.co/gqVkwu9yC3\n\nWe just have a slightly flatter object 😅 https://t.co/PXiy1CdnyQ",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "3375725380",
+      "edit_history_tweet_ids": ["1619979684237955074"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ]
+      },
+      "id": "1619979684237955074",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "impression_count": 20
+      },
+      "created_at": "2023-01-30T08:43:49.000Z",
+      "text": "@leeerob @nextjs Oh yeah! ❤️👌",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "2533007911",
+      "edit_history_tweet_ids": ["1619966293372993536"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ]
+      },
+      "id": "1619966293372993536",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "impression_count": 124
+      },
+      "created_at": "2023-01-30T07:50:36.000Z",
+      "text": "@leeerob @nextjs I'm sure there are still some projects that can't be upgraded to Next13, so I'd be very happy if they were cut out as separate packages, such as vercel/seo, etc.",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "786944110682894336",
+      "edit_history_tweet_ids": ["1619962289125474306"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ]
+      },
+      "id": "1619962289125474306",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "impression_count": 27
+      },
+      "created_at": "2023-01-30T07:34:41.000Z",
+      "text": "@leeerob @nextjs 🚀🚀",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "229784336",
+      "edit_history_tweet_ids": ["1619957364307943425"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ]
+      },
+      "id": "1619957364307943425",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "impression_count": 28
+      },
+      "created_at": "2023-01-30T07:15:07.000Z",
+      "text": "@leeerob @nextjs Finally 🙌",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "942409478787534849",
+      "edit_history_tweet_ids": ["1619953317848948738"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ]
+      },
+      "id": "1619953317848948738",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "impression_count": 48
+      },
+      "created_at": "2023-01-30T06:59:02.000Z",
+      "text": "@leeerob @nextjs and this happens right as im finishing my rewrite of amtraker with vite + react...sigh\n\nthen again mapping applications are a PITA to do on next, something that could probably be worked on to be more intuitive (dynamic imports just feel off tbh)",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "1044497754087727105",
+      "edit_history_tweet_ids": ["1619951117407850496"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 22,
+            "end": 27,
+            "probability": 0.867,
+            "type": "Other",
+            "normalized_text": "appDir"
+          }
+        ]
+      },
+      "id": "1619951117407850496",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "impression_count": 55
+      },
+      "created_at": "2023-01-30T06:50:18.000Z",
+      "text": "@leeerob @nextjs With appDir, is this still needed with head.js component ?",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "1294988617601884161",
+      "edit_history_tweet_ids": ["1619949647564509184"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ]
+      },
+      "id": "1619949647564509184",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "impression_count": 20
+      },
+      "created_at": "2023-01-30T06:44:27.000Z",
+      "text": "@leeerob @nextjs Waiting! Super useful",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "1449748401310998529",
+      "edit_history_tweet_ids": ["1619941677254447105"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ]
+      },
+      "id": "1619941677254447105",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0,
+        "impression_count": 14
+      },
+      "created_at": "2023-01-30T06:12:47.000Z",
+      "text": "@leeerob @nextjs i love this.",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "851447120674643968",
+      "edit_history_tweet_ids": ["1619927680044126208"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ]
+      },
+      "id": "1619927680044126208",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "impression_count": 22
+      },
+      "created_at": "2023-01-30T05:17:10.000Z",
+      "text": "@leeerob @nextjs This will support on the /pages layout?",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "544314525",
+      "edit_history_tweet_ids": ["1619925194461806599"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ]
+      },
+      "id": "1619925194461806599",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "impression_count": 7
+      },
+      "created_at": "2023-01-30T05:07:17.000Z",
+      "text": "@leeerob @nextjs Wow this is awesome!\nGood thoughts of bringing this as the core functionality to NextJs.\n\nMaybe next, form handlers?",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "384175161",
+      "edit_history_tweet_ids": ["1619919262348615680"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ]
+      },
+      "id": "1619919262348615680",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "impression_count": 207
+      },
+      "created_at": "2023-01-30T04:43:43.000Z",
+      "text": "@leeerob @nextjs Can anyone tell me the font used in this pic?",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "14788044",
+      "edit_history_tweet_ids": ["1619918913084723200"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ]
+      },
+      "id": "1619918913084723200",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "impression_count": 51
+      },
+      "created_at": "2023-01-30T04:42:20.000Z",
+      "text": "@leeerob @nextjs Aces Lee",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "90395317",
+      "edit_history_tweet_ids": ["1619912944938254336"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ]
+      },
+      "id": "1619912944938254336",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "impression_count": 21
+      },
+      "created_at": "2023-01-30T04:18:37.000Z",
+      "text": "@leeerob @nextjs I like this. I like this very much 👍🏻✨",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "1226020766",
+      "edit_history_tweet_ids": ["1619904163378352128"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ]
+      },
+      "id": "1619904163378352128",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "impression_count": 14
+      },
+      "created_at": "2023-01-30T03:43:43.000Z",
+      "text": "@leeerob @nextjs Such a welcome change! Next is becoming more amazing by the day!!!",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "1006610672220889088",
+      "edit_history_tweet_ids": ["1619899298866659329"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 56,
+            "end": 58,
+            "probability": 0.5247,
+            "type": "Other",
+            "normalized_text": "seo"
+          },
+          {
+            "start": 116,
+            "end": 119,
+            "probability": 0.4119,
+            "type": "Other",
+            "normalized_text": "json"
+          }
+        ]
+      },
+      "id": "1619899298866659329",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 7,
+        "quote_count": 0,
+        "impression_count": 640
+      },
+      "created_at": "2023-01-30T03:24:23.000Z",
+      "text": "@leeerob @nextjs This is such a nice addition. Managing seo is often poorly executed across orgs. \n\nDoes is support json ld format?",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "2926814773",
+      "edit_history_tweet_ids": ["1619893563684425728"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          },
+          {
+            "start": 17,
+            "end": 27,
+            "username": "lameCodes",
+            "id": "3116710754"
+          }
+        ]
+      },
+      "id": "1619893563684425728",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "impression_count": 19
+      },
+      "created_at": "2023-01-30T03:01:36.000Z",
+      "text": "@leeerob @nextjs @lameCodes",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "87965754",
+      "edit_history_tweet_ids": ["1619891916946178049"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 28,
+            "end": 30,
+            "probability": 0.4223,
+            "type": "Person",
+            "normalized_text": "seo"
+          },
+          {
+            "start": 45,
+            "end": 49,
+            "probability": 0.7347,
+            "type": "Other",
+            "normalized_text": "asana"
+          }
+        ]
+      },
+      "id": "1619891916946178049",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "impression_count": 45
+      },
+      "created_at": "2023-01-30T02:55:03.000Z",
+      "text": "@leeerob @nextjs I just add seo update to my asana last night so this is perfect timing ...thanks for sharing!",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "1490709188200345601",
+      "edit_history_tweet_ids": ["1619887170201997312"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ]
+      },
+      "id": "1619887170201997312",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "impression_count": 20
+      },
+      "created_at": "2023-01-30T02:36:12.000Z",
+      "text": "@leeerob @nextjs Oh wow! 🙌",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "2377150308",
+      "edit_history_tweet_ids": ["1619874750440017921"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ]
+      },
+      "id": "1619874750440017921",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "impression_count": 68
+      },
+      "created_at": "2023-01-30T01:46:50.000Z",
+      "text": "@leeerob @nextjs Can we use a dynamically generated OG image here?",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "1472330264609267713",
+      "edit_history_tweet_ids": ["1619874392615555072"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          },
+          {
+            "start": 17,
+            "end": 28,
+            "username": "jmichaliga",
+            "id": "14603040"
+          }
+        ]
+      },
+      "id": "1619874392615555072",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "impression_count": 59
+      },
+      "created_at": "2023-01-30T01:45:25.000Z",
+      "text": "@leeerob @nextjs @jmichaliga",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "1533470389191557122",
+      "edit_history_tweet_ids": ["1619872048192573440"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ]
+      },
+      "id": "1619872048192573440",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "impression_count": 268
+      },
+      "created_at": "2023-01-30T01:36:06.000Z",
+      "text": "@leeerob @nextjs I feel like I've seen this in GatsbyJS",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "14137234",
+      "edit_history_tweet_ids": ["1619869242333224960"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          },
+          {
+            "start": 17,
+            "end": 31,
+            "username": "astrodotbuild",
+            "id": "1376650370340986883"
+          }
+        ]
+      },
+      "id": "1619869242333224960",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0,
+        "impression_count": 71
+      },
+      "created_at": "2023-01-30T01:24:57.000Z",
+      "text": "@leeerob @nextjs @astrodotbuild pssst",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "9164512",
+      "edit_history_tweet_ids": ["1619868197045551105"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ]
+      },
+      "id": "1619868197045551105",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 3,
+        "quote_count": 0,
+        "impression_count": 2071
+      },
+      "created_at": "2023-01-30T01:20:48.000Z",
+      "text": "@leeerob @nextjs From the source code, it looks like there's basically a massive list of all the possible meta tags, including (for example) Twitter's own open graph ones.\n\nWill there be a way to extend this list? It seems reasonable to want to support ones that can't be exhaustively included.",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "14707667",
+      "edit_history_tweet_ids": ["1619865859387985920"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ]
+      },
+      "id": "1619865859387985920",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "impression_count": 37
+      },
+      "created_at": "2023-01-30T01:11:31.000Z",
+      "text": "@leeerob @nextjs Neat. Much improved.\n\nCan it be a function?\n\nWhat happens when a page only updates something like title but the previous page had title and description? Does the previous description get reset or does it stay?",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "2238108296",
+      "edit_history_tweet_ids": ["1619864514362761216"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ],
+        "urls": [
+          {
+            "start": 17,
+            "end": 40,
+            "url": "https://t.co/4zdZxDHpRK",
+            "expanded_url": "https://twitter.com/tmkzmu/status/1619864514362761216/photo/1",
+            "display_url": "pic.twitter.com/4zdZxDHpRK",
+            "media_key": "16_1619864506238210051"
+          }
+        ]
+      },
+      "id": "1619864514362761216",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "impression_count": 11
+      },
+      "created_at": "2023-01-30T01:06:10.000Z",
+      "text": "@leeerob @nextjs https://t.co/4zdZxDHpRK",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "3038877578",
+      "edit_history_tweet_ids": ["1619864300515987458"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 17,
+            "end": 24,
+            "probability": 0.7026,
+            "type": "Other",
+            "normalized_text": "GatsbyJS"
+          }
+        ]
+      },
+      "id": "1619864300515987458",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "impression_count": 35
+      },
+      "created_at": "2023-01-30T01:05:19.000Z",
+      "text": "@leeerob @nextjs GatsbyJS I believe does a similar thing 😎 good to see frameworks are learning from each other everyday 😏",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "1564794601",
+      "edit_history_tweet_ids": ["1619863012185341953"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ],
+        "urls": [
+          {
+            "start": 177,
+            "end": 200,
+            "url": "https://t.co/xEIgQ2Tsme",
+            "expanded_url": "https://twitter.com/thecalicastle/status/1619863012185341953/photo/1",
+            "display_url": "pic.twitter.com/xEIgQ2Tsme",
+            "media_key": "16_1619863003511541761"
+          }
+        ]
+      },
+      "id": "1619863012185341953",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "impression_count": 84
+      },
+      "created_at": "2023-01-30T01:00:12.000Z",
+      "text": "@leeerob @nextjs Exciting!!! I guess no more third party libraries like next-seo.\nNext.js has been really catching up with all batteries included now by default! Love to see it https://t.co/xEIgQ2Tsme",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "83116710",
+      "edit_history_tweet_ids": ["1619862877111980032"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ]
+      },
+      "id": "1619862877111980032",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "impression_count": 487
+      },
+      "created_at": "2023-01-30T00:59:40.000Z",
+      "text": "@leeerob @nextjs finally, hope this available soon! 🎉🙌🏻",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "37017073",
+      "edit_history_tweet_ids": ["1619854781597769729"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ]
+      },
+      "id": "1619854781597769729",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "impression_count": 24
+      },
+      "created_at": "2023-01-30T00:27:30.000Z",
+      "text": "@leeerob @nextjs Wouldn't this need to be generated async 99.9% of the time? Or is plain object just for defaults that can be overridden with an async API in every other context?",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "1555855590454284288",
+      "edit_history_tweet_ids": ["1619849528911474689"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ]
+      },
+      "id": "1619849528911474689",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "impression_count": 18
+      },
+      "created_at": "2023-01-30T00:06:37.000Z",
+      "text": "@leeerob @nextjs Nextjs + tailwind hot reload still not working",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "1383938846706999304",
+      "edit_history_tweet_ids": ["1619848517845143552"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ]
+      },
+      "id": "1619848517845143552",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "impression_count": 110
+      },
+      "created_at": "2023-01-30T00:02:36.000Z",
+      "text": "@leeerob @nextjs Love this!",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "854722070101360641",
+      "edit_history_tweet_ids": ["1619846879218659328"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ]
+      },
+      "id": "1619846879218659328",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "impression_count": 853
+      },
+      "created_at": "2023-01-29T23:56:05.000Z",
+      "text": "@leeerob @nextjs 🔥",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "386893507",
+      "edit_history_tweet_ids": ["1619839662952153089"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ],
+        "urls": [
+          {
+            "start": 17,
+            "end": 40,
+            "url": "https://t.co/tlPqkOTtPl",
+            "expanded_url": "https://twitter.com/josebreijo/status/1619839662952153089/photo/1",
+            "display_url": "pic.twitter.com/tlPqkOTtPl",
+            "media_key": "16_1619839651304411136"
+          }
+        ]
+      },
+      "id": "1619839662952153089",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "impression_count": 21
+      },
+      "created_at": "2023-01-29T23:27:25.000Z",
+      "text": "@leeerob @nextjs https://t.co/tlPqkOTtPl",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "741669443483406336",
+      "edit_history_tweet_ids": ["1619839223489511425"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ]
+      },
+      "id": "1619839223489511425",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "impression_count": 109
+      },
+      "created_at": "2023-01-29T23:25:40.000Z",
+      "text": "@leeerob @nextjs When should we expect this?",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "3844539496",
+      "edit_history_tweet_ids": ["1619839036855836674"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ]
+      },
+      "id": "1619839036855836674",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "impression_count": 19
+      },
+      "created_at": "2023-01-29T23:24:56.000Z",
+      "text": "@leeerob @nextjs Canonical and hreflang would be 🍒 on top 👌👌👌",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "1263522431429488641",
+      "edit_history_tweet_ids": ["1619829235778195456"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ]
+      },
+      "id": "1619829235778195456",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "impression_count": 37
+      },
+      "created_at": "2023-01-29T22:45:59.000Z",
+      "text": "@leeerob @nextjs I know this is for next and this is awesome but any thoughts on impimenting this for sveltekit as it’s now owned by Vercel?",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "210959477",
+      "edit_history_tweet_ids": ["1619827384370495489"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          },
+          {
+            "start": 88,
+            "end": 95,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ]
+      },
+      "id": "1619827384370495489",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "impression_count": 53
+      },
+      "created_at": "2023-01-29T22:38:38.000Z",
+      "text": "@leeerob @nextjs Can someone, anyone in this thread tell me what I need to do to get my @nextjs site to throw genuine 404s for nonexistent articles? I have all my content coming from Headless WP and can get pages and all other custom post types to throw 404s, but articles doesn’t work",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "4675328060",
+      "edit_history_tweet_ids": ["1619824640658137089"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ]
+      },
+      "id": "1619824640658137089",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "impression_count": 14
+      },
+      "created_at": "2023-01-29T22:27:43.000Z",
+      "text": "@leeerob @nextjs Can’t wait 🤩",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "1498527777787727872",
+      "edit_history_tweet_ids": ["1619817636631568385"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "rauchg",
+            "id": "15540222"
+          },
+          {
+            "start": 17,
+            "end": 24,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 30,
+            "end": 35,
+            "probability": 0.7183,
+            "type": "Other",
+            "normalized_text": "gatsby"
+          }
+        ]
+      },
+      "id": "1619817636631568385",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "impression_count": 10
+      },
+      "created_at": "2023-01-29T21:59:53.000Z",
+      "text": "@leeerob @rauchg @nextjs Like gatsby it's cool",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "709745985149378560",
+      "edit_history_tweet_ids": ["1619817436664205314"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 61,
+            "end": 63,
+            "probability": 0.7099,
+            "type": "Other",
+            "normalized_text": "tsx"
+          },
+          {
+            "start": 157,
+            "end": 159,
+            "probability": 0.5498,
+            "type": "Other",
+            "normalized_text": "tsx"
+          }
+        ]
+      },
+      "id": "1619817436664205314",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "impression_count": 41
+      },
+      "created_at": "2023-01-29T21:59:06.000Z",
+      "text": "@leeerob @nextjs Being able to still separate this into head.tsx would be nice still as a form of separation of concerns. Will this be there, or in the page.tsx file?",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "605155763",
+      "edit_history_tweet_ids": ["1619814970505695233"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ]
+      },
+      "id": "1619814970505695233",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "impression_count": 70
+      },
+      "created_at": "2023-01-29T21:49:18.000Z",
+      "text": "@leeerob @nextjs Please support JSON-LD structures too 😍🤩",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "618584559",
+      "edit_history_tweet_ids": ["1619811881748922369"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 33,
+            "end": 36,
+            "probability": 0.7004,
+            "type": "Other",
+            "normalized_text": "Nuxt"
+          }
+        ]
+      },
+      "id": "1619811881748922369",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "impression_count": 24
+      },
+      "created_at": "2023-01-29T21:37:01.000Z",
+      "text": "@leeerob @nextjs We have this in Nuxt already 😉😁",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "566610817",
+      "edit_history_tweet_ids": ["1619807029455118336"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ]
+      },
+      "id": "1619807029455118336",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "impression_count": 48
+      },
+      "created_at": "2023-01-29T21:17:45.000Z",
+      "text": "@leeerob @nextjs Will this work outside of the experimental app folder?",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "1493544274788446208",
+      "edit_history_tweet_ids": ["1619806633902882817"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ]
+      },
+      "id": "1619806633902882817",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "impression_count": 32
+      },
+      "created_at": "2023-01-29T21:16:10.000Z",
+      "text": "@leeerob @nextjs This is fantastic",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "3246816771",
+      "edit_history_tweet_ids": ["1619804123322540032"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 20,
+            "username": "JennyMaMTL",
+            "id": "1288249492194631686"
+          },
+          {
+            "start": 21,
+            "end": 28,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ]
+      },
+      "id": "1619804123322540032",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "impression_count": 60
+      },
+      "created_at": "2023-01-29T21:06:12.000Z",
+      "text": "@leeerob @JennyMaMTL @nextjs Does the default and template shown in the title key also work for other meta data?",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "963737004847652864",
+      "edit_history_tweet_ids": ["1619800517705879552"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ]
+      },
+      "id": "1619800517705879552",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "impression_count": 45
+      },
+      "created_at": "2023-01-29T20:51:52.000Z",
+      "text": "@leeerob @nextjs It's about time",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "1447630402131304450",
+      "edit_history_tweet_ids": ["1619798175144988672"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ]
+      },
+      "id": "1619798175144988672",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "impression_count": 62
+      },
+      "created_at": "2023-01-29T20:42:34.000Z",
+      "text": "@leeerob @nextjs Thank god",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "1483174605170827269",
+      "edit_history_tweet_ids": ["1619798059357212672"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ]
+      },
+      "id": "1619798059357212672",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "impression_count": 45
+      },
+      "created_at": "2023-01-29T20:42:06.000Z",
+      "text": "@leeerob @nextjs Love this metadata object design",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "892190671351816194",
+      "edit_history_tweet_ids": ["1619796319857672192"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ]
+      },
+      "id": "1619796319857672192",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "impression_count": 17
+      },
+      "created_at": "2023-01-29T20:35:11.000Z",
+      "text": "@leeerob @nextjs obg D'us",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "1575422813506248706",
+      "edit_history_tweet_ids": ["1619793361069830144"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ]
+      },
+      "id": "1619793361069830144",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "impression_count": 391
+      },
+      "created_at": "2023-01-29T20:23:26.000Z",
+      "text": "@leeerob @nextjs Is this cascading? Like, can you override when you need to but the highest-closest one still applies when you don't?",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "2943052463",
+      "edit_history_tweet_ids": ["1619791722132930560"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 42,
+            "end": 46,
+            "probability": 0.6242,
+            "type": "Other",
+            "normalized_text": "json-"
+          },
+          {
+            "start": 85,
+            "end": 87,
+            "probability": 0.3805,
+            "type": "Other",
+            "normalized_text": "seo"
+          }
+        ]
+      },
+      "id": "1619791722132930560",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "impression_count": 56
+      },
+      "created_at": "2023-01-29T20:16:55.000Z",
+      "text": "@leeerob @nextjs Is this going to include json-ld schema support similar to the next seo package ?🤔\n\nThat would save me a good bit of time!",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "1896907050",
+      "edit_history_tweet_ids": ["1619791292636045312"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ]
+      },
+      "id": "1619791292636045312",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "impression_count": 52
+      },
+      "created_at": "2023-01-29T20:15:13.000Z",
+      "text": "@leeerob @nextjs Nice!",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "2871016040",
+      "edit_history_tweet_ids": ["1619790235935870976"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ]
+      },
+      "id": "1619790235935870976",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "impression_count": 65
+      },
+      "created_at": "2023-01-29T20:11:01.000Z",
+      "text": "@leeerob @nextjs Can’t wait 😁",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "462970279",
+      "edit_history_tweet_ids": ["1619789024687980544"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ]
+      },
+      "id": "1619789024687980544",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "impression_count": 71
+      },
+      "created_at": "2023-01-29T20:06:12.000Z",
+      "text": "@leeerob @nextjs Another reason why I’m bullish on Frontend and SEO merge!",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "1019167440360628224",
+      "edit_history_tweet_ids": ["1619788649612333056"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ]
+      },
+      "id": "1619788649612333056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "impression_count": 103
+      },
+      "created_at": "2023-01-29T20:04:42.000Z",
+      "text": "@leeerob @nextjs Hmm\nDo these objects support i18n? \n\nPage specific ones will surely support dynamic values which will be by default 18n compatible \n\nBut static ones?🙄",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "1132949834942435329",
+      "edit_history_tweet_ids": ["1619788274645737473"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 31,
+            "end": 33,
+            "probability": 0.6513,
+            "type": "Other",
+            "normalized_text": "seo"
+          }
+        ]
+      },
+      "id": "1619788274645737473",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "impression_count": 115
+      },
+      "created_at": "2023-01-29T20:03:13.000Z",
+      "text": "@leeerob @nextjs For now, next-seo is doing a great job. Of course, native support would be awesome. I like the robots field",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "182379711",
+      "edit_history_tweet_ids": ["1619785565171482624"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ],
+        "urls": [
+          {
+            "start": 104,
+            "end": 127,
+            "url": "https://t.co/omXiaQWwZt",
+            "expanded_url": "https://twitter.com/marcuswood23/status/1619785565171482624/photo/1",
+            "display_url": "pic.twitter.com/omXiaQWwZt",
+            "media_key": "3_1619785466836041729"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 45,
+            "end": 47,
+            "probability": 0.5796,
+            "type": "Other",
+            "normalized_text": "SEO"
+          }
+        ]
+      },
+      "id": "1619785565171482624",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 7,
+        "quote_count": 0,
+        "impression_count": 445
+      },
+      "created_at": "2023-01-29T19:52:27.000Z",
+      "text": "@leeerob @nextjs You can have strongly typed SEO today with a little work. We drive something like this https://t.co/omXiaQWwZt",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "268841066",
+      "edit_history_tweet_ids": ["1619782795097968640"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ]
+      },
+      "id": "1619782795097968640",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "impression_count": 71
+      },
+      "created_at": "2023-01-29T19:41:27.000Z",
+      "text": "@leeerob @nextjs Stoked!",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "1416252595161780224",
+      "edit_history_tweet_ids": ["1619782181584519170"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ]
+      },
+      "id": "1619782181584519170",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0,
+        "impression_count": 299
+      },
+      "created_at": "2023-01-29T19:39:00.000Z",
+      "text": "@leeerob @nextjs How *soon* is soon?? This looks amazing",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "2312180641",
+      "edit_history_tweet_ids": ["1619779571779502080"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ]
+      },
+      "id": "1619779571779502080",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "impression_count": 130
+      },
+      "created_at": "2023-01-29T19:28:38.000Z",
+      "text": "@leeerob @nextjs OMG that looks awesome! 🤩 When can we expect to use this feature in prod?",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "807344782632685569",
+      "edit_history_tweet_ids": ["1619777400434475008"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ]
+      },
+      "id": "1619777400434475008",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "impression_count": 165
+      },
+      "created_at": "2023-01-29T19:20:00.000Z",
+      "text": "@leeerob @nextjs Will there be any patterns for using this with vercel/og or other og image generation tools?",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "94719321",
+      "edit_history_tweet_ids": ["1619776314432688128"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ],
+        "urls": [
+          {
+            "start": 71,
+            "end": 94,
+            "url": "https://t.co/eFaPdPdDzu",
+            "expanded_url": "http://r-k-y.com",
+            "display_url": "r-k-y.com",
+            "status": 200,
+            "title": "Rajesh Kumar Yadav",
+            "description": "I am Front-End Engineer from India and working in London, for one of the largest charity of UK as Frontend Digital Developer. I am an individual with great interpersonal skills who is capable of working in a team with varied backgrounds. Willing to adapt and learn new skills and techniques in order to take advantage of new chances and difficulties. Versatile front-end engineer with more than 10 ye ars of experience designing, developing, and managing large-scale e-commerce sites and internal frameworks.",
+            "unwound_url": "https://www.r-k-y.com/"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 57,
+            "end": 62,
+            "probability": 0.4439,
+            "type": "Organization",
+            "normalized_text": "nextjs"
+          }
+        ]
+      },
+      "id": "1619776314432688128",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "impression_count": 11
+      },
+      "created_at": "2023-01-29T19:15:42.000Z",
+      "text": "@leeerob @nextjs will use this once available to use (my nextjs app is https://t.co/eFaPdPdDzu )",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "1004742187",
+      "edit_history_tweet_ids": ["1619774658206896130"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ],
+        "urls": [
+          {
+            "start": 204,
+            "end": 227,
+            "url": "https://t.co/j2iMUvS6NY",
+            "expanded_url": "http://cal.com",
+            "display_url": "cal.com",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1617604267019472896/YPO8ogQd?format=jpg&name=orig",
+                "width": 1800,
+                "height": 964
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1617604267019472896/YPO8ogQd?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "Cal.com | Open Scheduling Infrastructure",
+            "description": "Open Source Scheduling: Send a link and meet or build an entire marketplace for humans to connect.",
+            "unwound_url": "https://cal.com/"
+          }
+        ]
+      },
+      "id": "1619774658206896130",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 5,
+        "quote_count": 0,
+        "impression_count": 848
+      },
+      "created_at": "2023-01-29T19:09:07.000Z",
+      "text": "@leeerob @nextjs really odd request: would it make sense to make vercel/og package first-class citizen of nextjs? \n\nmaybe even a pre-designed og-image that takes a screenshot of the page?\n\nwe do that for https://t.co/j2iMUvS6NY and its really nice",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "776784267800084484",
+      "edit_history_tweet_ids": ["1619774198666387456"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ]
+      },
+      "id": "1619774198666387456",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "impression_count": 78
+      },
+      "created_at": "2023-01-29T19:07:17.000Z",
+      "text": "@leeerob @nextjs Nice",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "419995990",
+      "edit_history_tweet_ids": ["1619774039928741888"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ]
+      },
+      "id": "1619774039928741888",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "impression_count": 87
+      },
+      "created_at": "2023-01-29T19:06:39.000Z",
+      "text": "@leeerob @nextjs Awesome idea. Excited for this.",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "1531835313739407361",
+      "edit_history_tweet_ids": ["1619773837515833344"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ]
+      },
+      "id": "1619773837515833344",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "impression_count": 88
+      },
+      "created_at": "2023-01-29T19:05:51.000Z",
+      "text": "@leeerob @nextjs I love yall. Every time I turn around you're shipping great stuff.",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "71106817",
+      "edit_history_tweet_ids": ["1619773811020144642"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 45,
+            "end": 49,
+            "probability": 0.7347,
+            "type": "Other",
+            "normalized_text": "Remix"
+          },
+          {
+            "start": 76,
+            "end": 81,
+            "probability": 0.6288,
+            "type": "Other",
+            "normalized_text": "Nextjs"
+          }
+        ]
+      },
+      "id": "1619773811020144642",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 3,
+        "quote_count": 0,
+        "impression_count": 215
+      },
+      "created_at": "2023-01-29T19:05:45.000Z",
+      "text": "@leeerob @nextjs another lovely feature from Remix im happy to see bleed to Nextjs",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "1444826310048718850",
+      "edit_history_tweet_ids": ["1619771636206669825"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ]
+      },
+      "id": "1619771636206669825",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "impression_count": 77
+      },
+      "created_at": "2023-01-29T18:57:06.000Z",
+      "text": "@leeerob @nextjs Can this replace next-seo?? From first glance, answer seems yes",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "512269358",
+      "edit_history_tweet_ids": ["1619771239240994816"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ]
+      },
+      "id": "1619771239240994816",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "impression_count": 86
+      },
+      "created_at": "2023-01-29T18:55:31.000Z",
+      "text": "@leeerob @nextjs Niiice!",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "1600076243168280578",
+      "edit_history_tweet_ids": ["1619770398299635712"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ]
+      },
+      "id": "1619770398299635712",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "impression_count": 59
+      },
+      "created_at": "2023-01-29T18:52:11.000Z",
+      "text": "@leeerob @nextjs next-seo RIP",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "2066761",
+      "edit_history_tweet_ids": ["1619768220059332609"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ]
+      },
+      "id": "1619768220059332609",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "impression_count": 154
+      },
+      "created_at": "2023-01-29T18:43:32.000Z",
+      "text": "@leeerob @nextjs just use remix",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "1606934767211249664",
+      "edit_history_tweet_ids": ["1619768211708473344"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ]
+      },
+      "id": "1619768211708473344",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "impression_count": 35
+      },
+      "created_at": "2023-01-29T18:43:30.000Z",
+      "text": "@leeerob @nextjs This looks neat!",
+      "conversation_id": "1619743437577912321"
+    },
+    {
+      "author_id": "1382525176085151749",
+      "edit_history_tweet_ids": ["1619767983223762945"],
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 8,
+            "username": "leeerob",
+            "id": "81712767"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "username": "nextjs",
+            "id": "1467726470533754880"
+          }
+        ]
+      },
+      "id": "1619767983223762945",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "impression_count": 54
+      },
+      "created_at": "2023-01-29T18:42:35.000Z",
+      "text": "@leeerob @nextjs This would be so sweet 😍😍😍",
+      "conversation_id": "1619743437577912321"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "id": "821552896810565632",
+        "username": "sweetman_eth",
+        "name": "sweetman.⌐◨-◨🇦🇷🦇🔊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1608966446712819713/hrYJzM4Z_normal.png"
+      },
+      {
+        "id": "1605581",
+        "username": "crockerbytes",
+        "name": "Alex Crocker",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1598430081407393797/foSRb2XJ_normal.jpg"
+      },
+      {
+        "id": "1168003019620773888",
+        "username": "plasmicapp",
+        "name": "Plasmic",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1446159892398714892/MjHVjz7f_normal.jpg"
+      },
+      {
+        "id": "1376488772326600706",
+        "username": "trickthevick",
+        "name": "Elvis Ndubuisi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1542842300241412098/T67MF11u_normal.jpg"
+      },
+      {
+        "id": "705536987621662720",
+        "username": "_hariti",
+        "name": "abdellah hariti",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1504082545255886852/TIlsWbvh_normal.jpg"
+      },
+      {
+        "id": "384338897",
+        "username": "TheSeaMouse",
+        "name": "Hassan Hayat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1554210398601187328/0ZfGeMV2_normal.jpg"
+      },
+      {
+        "id": "1202637081467670528",
+        "username": "lucasrbasso",
+        "name": "Lucas Basso",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1549948046477230081/UpsNGXxz_normal.jpg"
+      },
+      {
+        "id": "1504909818347335684",
+        "username": "skies_dev",
+        "name": "Skies Dev",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1590744088755699714/KSOYBZl__normal.jpg"
+      },
+      {
+        "id": "1004550716197924864",
+        "username": "_odunsi_",
+        "name": "dhatGuy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1456224334410887176/NfjJ2vOe_normal.jpg"
+      },
+      {
+        "id": "728158647122022400",
+        "username": "wardpeet",
+        "name": "Ward Peeters",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1083279065396715520/J0WXNm4l_normal.jpg"
+      },
+      {
+        "id": "50549691",
+        "username": "RafaellLycan",
+        "name": "Rafael Almeida 🇧🇷🇪🇸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/935230504227475456/Wl3Ovvop_normal.jpg"
+      },
+      {
+        "id": "1254636602455764992",
+        "username": "smerlinger",
+        "name": "Shaun",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1532958221568454656/OfG4BEVj_normal.jpg"
+      },
+      {
+        "id": "1392432987422093313",
+        "username": "Ashiq_TasdidYT",
+        "name": "Md. Ashiquzzaman Khan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1560274241349910528/io8VOWxh_normal.jpg"
+      },
+      {
+        "id": "86857898",
+        "username": "Nathanbq",
+        "name": "Jonathan Bohorquez",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1465490100297551876/3QHBl4ko_normal.jpg"
+      },
+      {
+        "id": "24202643",
+        "username": "Kosai106",
+        "name": "Kevin Østerkilde 🇩🇰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1520842328101076997/yoKYdDEJ_normal.jpg"
+      },
+      {
+        "id": "952207961052598272",
+        "username": "fojyro",
+        "name": "Fojyro",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1304455097620082693/yX8rkeRI_normal.jpg"
+      },
+      {
+        "id": "1159799889582276608",
+        "username": "FlavienBonvin",
+        "name": "Flavien Bonvin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1619977387759878144/kBDuObQ1_normal.jpg"
+      },
+      {
+        "id": "36312769",
+        "username": "joulsounet",
+        "name": "Joulse",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1363921983038193664/pvASiloN_normal.jpg"
+      },
+      {
+        "id": "1439224352797609988",
+        "username": "lazy_coll",
+        "name": "iam chatgpt",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1588397317425713155/aUnB9qOL_normal.jpg"
+      },
+      {
+        "id": "1228773712658386946",
+        "username": "dvlden",
+        "name": "Nenad Novaković",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1552757680284094465/E6ZzN45P_normal.png"
+      },
+      {
+        "id": "3265868971",
+        "username": "jay_aif",
+        "name": "Jay McMullen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1619989733295390720/LXlPfFRk_normal.jpg"
+      },
+      {
+        "id": "1296047337022742529",
+        "username": "harlan_zw",
+        "name": "Harlan Wilton",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1544131213522530304/-zxLLSUr_normal.jpg"
+      },
+      {
+        "id": "3375725380",
+        "username": "_brandonsueur",
+        "name": "Brandon ⚡️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1596972312112369664/H7D8OdyT_normal.jpg"
+      },
+      {
+        "id": "2533007911",
+        "username": "konojunya",
+        "name": "JJ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1617698203952087045/5fh4CYAG_normal.png"
+      },
+      {
+        "id": "786944110682894336",
+        "username": "developbyhamza",
+        "name": "Hamza Ahmad",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1550024006270697473/SQKXA2cC_normal.jpg"
+      },
+      {
+        "id": "229784336",
+        "username": "FridovanDriem",
+        "name": "Frido van Driem",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/741922743873069056/9JU2fitx_normal.jpg"
+      },
+      {
+        "id": "942409478787534849",
+        "username": "piemadd",
+        "name": "idiot programmer",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1521050682983424003/yERaHagV_normal.jpg"
+      },
+      {
+        "id": "1044497754087727105",
+        "username": "fredkisss",
+        "name": "Fredkisss (oui avec 3 s) 🎙️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1587785998469107713/p-hYTTTL_normal.jpg"
+      },
+      {
+        "id": "1294988617601884161",
+        "username": "rakesh_at_tweet",
+        "name": "Rakesh Potnuru",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1537851602228645889/ZknBdu7Z_normal.jpg"
+      },
+      {
+        "id": "1449748401310998529",
+        "username": "DevComp_",
+        "name": "Compey",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1616672038890143747/9UirUuo8_normal.jpg"
+      },
+      {
+        "id": "851447120674643968",
+        "username": "i_mridul",
+        "name": "Mridul",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1374245123395964929/YcUKpmKs_normal.jpg"
+      },
+      {
+        "id": "544314525",
+        "username": "rohmanhm",
+        "name": "Rohman H.M.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1600372122844827648/l9Bu3GFU_normal.jpg"
+      },
+      {
+        "id": "384175161",
+        "username": "Sukma_Raharja",
+        "name": "Moki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1434926755408539649/x5hnUmIs_normal.jpg"
+      },
+      {
+        "id": "14788044",
+        "username": "mannybreno",
+        "name": "Manny Becerra",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1426725437439315973/yQIgCUS9_normal.jpg"
+      },
+      {
+        "id": "90395317",
+        "username": "GlenCodes",
+        "name": "Glen Codes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1607305589323104257/QuK3z1Ju_normal.jpg"
+      },
+      {
+        "id": "1226020766",
+        "username": "GiladSher1996",
+        "name": "Gilad Sher",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1345975265961369600/0RH60-Th_normal.jpg"
+      },
+      {
+        "id": "1006610672220889088",
+        "username": "ScriptedAlchemy",
+        "name": "Zack Jackson",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1601787403185934336/plWmMMB8_normal.jpg"
+      },
+      {
+        "id": "2926814773",
+        "username": "gauravcodes",
+        "name": "Gaurav thakur",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1525765982580396032/-9q-B6pr_normal.jpg"
+      },
+      {
+        "id": "87965754",
+        "username": "DJTwinnyTwin",
+        "name": "Twinny",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1619411682396340225/13hp0zOX_normal.jpg"
+      },
+      {
+        "id": "1490709188200345601",
+        "username": "SpinalCms",
+        "name": "Spinal",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1568316417585332224/okTmBMwC_normal.jpg"
+      },
+      {
+        "id": "2377150308",
+        "username": "the_mcnaveen",
+        "name": "Naveen ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1518298256069259264/x4sj2K_4_normal.jpg"
+      },
+      {
+        "id": "1472330264609267713",
+        "username": "pete_sim1",
+        "name": "pete",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1589143612671107077/KWZ-ByCL_normal.jpg"
+      },
+      {
+        "id": "1533470389191557122",
+        "username": "421_misdirected",
+        "name": "Fill in the blank",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1608954493651009537/S2mSyJNm_normal.jpg"
+      },
+      {
+        "id": "14137234",
+        "username": "nickemccurdy",
+        "name": "Nick McCurdy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1270769009420636161/qxqgkg8X_normal.jpg"
+      },
+      {
+        "id": "9164512",
+        "username": "andrewingram",
+        "name": "Andy Ingram 🌀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1529887471202447373/pbwImYX7_normal.jpg"
+      },
+      {
+        "id": "14707667",
+        "username": "sroussey",
+        "name": "Steven Roussey",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1557802332498194432/gT-tNVes_normal.jpg"
+      },
+      {
+        "id": "2238108296",
+        "username": "tmkzmu",
+        "name": "Tomasz Żmudziński",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1299832117518577667/cKA3kJkH_normal.jpg"
+      },
+      {
+        "id": "3038877578",
+        "username": "robertochupin",
+        "name": "Roberto Chupin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/913278552245702656/25sfjV5u_normal.jpg"
+      },
+      {
+        "id": "1564794601",
+        "username": "thecalicastle",
+        "name": "cali castle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1588231687988994048/9cnCpAXZ_normal.jpg"
+      },
+      {
+        "id": "83116710",
+        "username": "barayuda",
+        "name": "Barayuda",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1538994070575632396/AkuiJmWh_normal.png"
+      },
+      {
+        "id": "37017073",
+        "username": "emarticor",
+        "name": "Emilio Martinez",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/708944150/DSC_0332_normal.jpg"
+      },
+      {
+        "id": "1555855590454284288",
+        "username": "rp2oooo",
+        "name": "👁👃👁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1555856990684921856/vEX1N1dE_normal.jpg"
+      },
+      {
+        "id": "1383938846706999304",
+        "username": "claud_fuen",
+        "name": "Claudio Fuentes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1591453356576284673/XLy529vd_normal.jpg"
+      },
+      {
+        "id": "854722070101360641",
+        "username": "EryouHao",
+        "name": "海岛心hey",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1490844347721342981/_vcCNxRm_normal.jpg"
+      },
+      {
+        "id": "386893507",
+        "username": "josebreijo",
+        "name": "José Breijo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1617820628924436480/emeb2dzG_normal.jpg"
+      },
+      {
+        "id": "741669443483406336",
+        "username": "collegecodenet",
+        "name": "College Code",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/967547641180672005/ZnhqceO9_normal.jpg"
+      },
+      {
+        "id": "3844539496",
+        "username": "AdamDDurrant",
+        "name": "Adam Durrant ✌️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1323776109780078593/sFYc0GHR_normal.jpg"
+      },
+      {
+        "id": "1263522431429488641",
+        "username": "mannino_bobby",
+        "name": "Bobby Mannino",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1501681718151024643/lXP2Ankj_normal.jpg"
+      },
+      {
+        "id": "210959477",
+        "username": "Chase_Observes",
+        "name": "Chase Observes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/927603149698883587/fJQULRn9_normal.jpg"
+      },
+      {
+        "id": "4675328060",
+        "username": "tianenpang",
+        "name": "Tianen Pang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1513925146976825347/3H73mLng_normal.jpg"
+      },
+      {
+        "id": "1498527777787727872",
+        "username": "imdeadbro7",
+        "name": "Big Energy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1616170799324348419/sWjQ3TzU_normal.jpg"
+      },
+      {
+        "id": "709745985149378560",
+        "username": "ZeroThe2nd",
+        "name": "ＺｅｒｏＴｈｅ２ｎｄ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/709746479276003328/Gb-t9EM9_normal.jpg"
+      },
+      {
+        "id": "605155763",
+        "username": "sia_mac",
+        "name": "🎈Siamak",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1609441279972184064/8ly1TRcg_normal.jpg"
+      },
+      {
+        "id": "618584559",
+        "username": "strongunsullied",
+        "name": "Kasopej💻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1554760415028154380/uET3tp-K_normal.jpg"
+      },
+      {
+        "id": "566610817",
+        "username": "FloWendelborn",
+        "name": "Florian Wendelborn",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/850819411577638916/q8shFhK__normal.jpg"
+      },
+      {
+        "id": "1493544274788446208",
+        "username": "A1terAnon",
+        "name": "Alter",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1560283048377061377/_5Knhjyp_normal.jpg"
+      },
+      {
+        "id": "3246816771",
+        "username": "wottavm",
+        "name": "Wouter",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1519933017799675904/FRAGUwge_normal.jpg"
+      },
+      {
+        "id": "963737004847652864",
+        "username": "igmarinelli",
+        "name": "Igma",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1360241413582118916/z6TzgX_k_normal.jpg"
+      },
+      {
+        "id": "1447630402131304450",
+        "username": "0xTypo",
+        "name": "Typo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1618492030732173313/i_YkDOwA_normal.jpg"
+      },
+      {
+        "id": "1483174605170827269",
+        "username": "wathws",
+        "name": "Mat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1619084268881301504/1ToOEw0d_normal.jpg"
+      },
+      {
+        "id": "892190671351816194",
+        "username": "izakdvlpr",
+        "name": "Izak",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1605615078300065794/PmfdPcQb_normal.jpg"
+      },
+      {
+        "id": "1575422813506248706",
+        "username": "senadev42",
+        "name": "Sena",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1612561144002105357/D3c9Kw3Z_normal.jpg"
+      },
+      {
+        "id": "2943052463",
+        "username": "robcipolla",
+        "name": "Rob Cipolla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1546623719363280897/wjMqxRet_normal.jpg"
+      },
+      {
+        "id": "1896907050",
+        "username": "leen_sethi",
+        "name": "Gurleen Sethi ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1262085084674490368/4O-1jqXq_normal.jpg"
+      },
+      {
+        "id": "2871016040",
+        "username": "alliemeka",
+        "name": "Emeka | 👑 + 👼🏾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1601965109894680577/AeM3f_rM_normal.jpg"
+      },
+      {
+        "id": "462970279",
+        "username": "0xBabatunde",
+        "name": "Babatunde Lawal ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1617279732218830848/Xyi9RZJY_normal.jpg"
+      },
+      {
+        "id": "1019167440360628224",
+        "username": "mhmdou1",
+        "name": "Mohammad AlOulabi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602434450612166656/qgNfWf9d_normal.jpg"
+      },
+      {
+        "id": "1132949834942435329",
+        "username": "MrRobbieCook",
+        "name": "Robbie Cook",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1603330391506489344/J2G0xH3l_normal.jpg"
+      },
+      {
+        "id": "182379711",
+        "username": "marcuswood23",
+        "name": "Marcus Wood",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1522464492969291776/tBY-rXcj_normal.jpg"
+      },
+      {
+        "id": "268841066",
+        "username": "i_gassmann",
+        "name": "Igor Gassmann",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1374115278238416896/LhwgfYoE_normal.jpg"
+      },
+      {
+        "id": "1416252595161780224",
+        "username": "romlytech",
+        "name": "Mike Roberts",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1438252647363006466/UtO9yG3L_normal.jpg"
+      },
+      {
+        "id": "2312180641",
+        "username": "atoulmet",
+        "name": "Alexia Toulmet",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1306877943155773440/6ei8B6iy_normal.jpg"
+      },
+      {
+        "id": "807344782632685569",
+        "username": "umariomaker",
+        "name": "Umar Ahmed 🟣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/813979576456146944/Qzn0_jrE_normal.jpg"
+      },
+      {
+        "id": "94719321",
+        "username": "rky_com",
+        "name": "Rajesh Kumar Yadav",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1618289219947925505/tqCdbTF-_normal.jpg"
+      },
+      {
+        "id": "1004742187",
+        "username": "peer_rich",
+        "name": "Peer Richelsen 🗓🍊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1587054846615625728/5g6ZwDEH_normal.jpg"
+      },
+      {
+        "id": "776784267800084484",
+        "username": "devshogun",
+        "name": "Michael.E",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1534500838705618944/yeSfedFQ_normal.jpg"
+      },
+      {
+        "id": "419995990",
+        "username": "Rotexhawk",
+        "name": "Rotex Hawk 🦇🔊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1617189385505542144/3nWP8H1Z_normal.jpg"
+      },
+      {
+        "id": "1531835313739407361",
+        "username": "ItsJakePerry",
+        "name": "Jake Perry",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1532472195552796672/mXOIpJmG_normal.jpg"
+      },
+      {
+        "id": "71106817",
+        "username": "fredoiq",
+        "name": "freddie",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1541042721162420227/WLnP7Sfo_normal.png"
+      },
+      {
+        "id": "1444826310048718850",
+        "username": "haryck9",
+        "name": "Harry Choi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1619105890438709251/JNUrbCeB_normal.jpg"
+      },
+      {
+        "id": "512269358",
+        "username": "_hugocardenas",
+        "name": "Hugo Cárdenas ❄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1601922804261306368/J3vQQmaG_normal.jpg"
+      },
+      {
+        "id": "1600076243168280578",
+        "username": "sherrardj",
+        "name": "Jon Sherrard",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1615658358559674368/yXwNkA3M_normal.jpg"
+      },
+      {
+        "id": "2066761",
+        "username": "bennash",
+        "name": "Ben Nash",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1189674361/ben-d_normal.png"
+      },
+      {
+        "id": "1606934767211249664",
+        "username": "ruchernchong",
+        "name": "Ru Chern Chong",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1606934875160064000/eV5mSG56_normal.jpg"
+      },
+      {
+        "id": "1382525176085151749",
+        "username": "the_draq",
+        "name": "Dråq ™👷 عبد الله",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1615803257883922432/OhtU4isX_normal.jpg"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1620091772952285185",
+    "oldest_id": "1619767983223762945",
+    "result_count": 96,
+    "next_token": "b26v89c19zqg8o3fqk43548d8vruvpc84c8zfb5embptp"
+  }
+}

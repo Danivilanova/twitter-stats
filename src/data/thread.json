@@ -1,0 +1,590 @@
+{
+  "data": [
+    {
+      "author_id": "1228773712658386946",
+      "text": "@austin_malerba @framer @chakra_ui Silky smooth. I like this effect. 🔥",
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 15,
+            "username": "austin_malerba",
+            "id": "1212993847355002880"
+          },
+          {
+            "start": 16,
+            "end": 23,
+            "username": "framer",
+            "id": "1056838028"
+          },
+          {
+            "start": 24,
+            "end": 34,
+            "username": "chakra_ui",
+            "id": "1244925393641123840"
+          }
+        ]
+      },
+      "edit_history_tweet_ids": ["1619685562843299845"],
+      "conversation_id": "1619351396331167744",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "impression_count": 105
+      },
+      "created_at": "2023-01-29T13:15:05.000Z",
+      "id": "1619685562843299845"
+    },
+    {
+      "author_id": "1446877937131614209",
+      "text": "@austin_malerba @framer @chakra_ui OMG IM IN LOVE",
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 15,
+            "username": "austin_malerba",
+            "id": "1212993847355002880"
+          },
+          {
+            "start": 16,
+            "end": 23,
+            "username": "framer",
+            "id": "1056838028"
+          },
+          {
+            "start": 24,
+            "end": 34,
+            "username": "chakra_ui",
+            "id": "1244925393641123840"
+          }
+        ]
+      },
+      "edit_history_tweet_ids": ["1619488447504478208"],
+      "conversation_id": "1619351396331167744",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0,
+        "impression_count": 111
+      },
+      "created_at": "2023-01-29T00:11:49.000Z",
+      "id": "1619488447504478208"
+    },
+    {
+      "author_id": "1368350346666475521",
+      "text": "@austin_malerba @framer @chakra_ui This would be cool on an Apple Watch",
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 15,
+            "username": "austin_malerba",
+            "id": "1212993847355002880"
+          },
+          {
+            "start": 16,
+            "end": 23,
+            "username": "framer",
+            "id": "1056838028"
+          },
+          {
+            "start": 24,
+            "end": 34,
+            "username": "chakra_ui",
+            "id": "1244925393641123840"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 60,
+            "end": 70,
+            "probability": 0.6847,
+            "type": "Product",
+            "normalized_text": "Apple Watch"
+          }
+        ]
+      },
+      "edit_history_tweet_ids": ["1619447110101004288"],
+      "conversation_id": "1619351396331167744",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0,
+        "impression_count": 181
+      },
+      "created_at": "2023-01-28T21:27:33.000Z",
+      "id": "1619447110101004288"
+    },
+    {
+      "author_id": "1492800648580112384",
+      "text": "@austin_malerba @framer @chakra_ui Can I use Vanilla JS and still achieve this ?",
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 15,
+            "username": "austin_malerba",
+            "id": "1212993847355002880"
+          },
+          {
+            "start": 16,
+            "end": 23,
+            "username": "framer",
+            "id": "1056838028"
+          },
+          {
+            "start": 24,
+            "end": 34,
+            "username": "chakra_ui",
+            "id": "1244925393641123840"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 45,
+            "end": 54,
+            "probability": 0.856,
+            "type": "Other",
+            "normalized_text": "Vanilla JS"
+          }
+        ]
+      },
+      "edit_history_tweet_ids": ["1619423686427291649"],
+      "conversation_id": "1619351396331167744",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "impression_count": 305
+      },
+      "created_at": "2023-01-28T19:54:28.000Z",
+      "id": "1619423686427291649"
+    },
+    {
+      "author_id": "1492800648580112384",
+      "text": "@austin_malerba @framer @chakra_ui This looks so cool !",
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 15,
+            "username": "austin_malerba",
+            "id": "1212993847355002880"
+          },
+          {
+            "start": 16,
+            "end": 23,
+            "username": "framer",
+            "id": "1056838028"
+          },
+          {
+            "start": 24,
+            "end": 34,
+            "username": "chakra_ui",
+            "id": "1244925393641123840"
+          }
+        ]
+      },
+      "edit_history_tweet_ids": ["1619423375461593088"],
+      "conversation_id": "1619351396331167744",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "impression_count": 116
+      },
+      "created_at": "2023-01-28T19:53:14.000Z",
+      "id": "1619423375461593088"
+    },
+    {
+      "author_id": "1290860653863788544",
+      "text": "@austin_malerba @framer @chakra_ui Wowowooww",
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 15,
+            "username": "austin_malerba",
+            "id": "1212993847355002880"
+          },
+          {
+            "start": 16,
+            "end": 23,
+            "username": "framer",
+            "id": "1056838028"
+          },
+          {
+            "start": 24,
+            "end": 34,
+            "username": "chakra_ui",
+            "id": "1244925393641123840"
+          }
+        ]
+      },
+      "edit_history_tweet_ids": ["1619422744206278656"],
+      "conversation_id": "1619351396331167744",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "impression_count": 180
+      },
+      "created_at": "2023-01-28T19:50:44.000Z",
+      "id": "1619422744206278656"
+    },
+    {
+      "author_id": "1600802386217410562",
+      "text": "@austin_malerba @framer @chakra_ui looks awsome",
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 15,
+            "username": "austin_malerba",
+            "id": "1212993847355002880"
+          },
+          {
+            "start": 16,
+            "end": 23,
+            "username": "framer",
+            "id": "1056838028"
+          },
+          {
+            "start": 24,
+            "end": 34,
+            "username": "chakra_ui",
+            "id": "1244925393641123840"
+          }
+        ]
+      },
+      "edit_history_tweet_ids": ["1619420447547985920"],
+      "conversation_id": "1619351396331167744",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "impression_count": 12
+      },
+      "created_at": "2023-01-28T19:41:36.000Z",
+      "id": "1619420447547985920"
+    },
+    {
+      "author_id": "1005097117",
+      "text": "@austin_malerba @framer @chakra_ui Is this done in the canvas or are those dom elements ?",
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 15,
+            "username": "austin_malerba",
+            "id": "1212993847355002880"
+          },
+          {
+            "start": 16,
+            "end": 23,
+            "username": "framer",
+            "id": "1056838028"
+          },
+          {
+            "start": 24,
+            "end": 34,
+            "username": "chakra_ui",
+            "id": "1244925393641123840"
+          }
+        ]
+      },
+      "edit_history_tweet_ids": ["1619416638151073792"],
+      "conversation_id": "1619351396331167744",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "impression_count": 316
+      },
+      "created_at": "2023-01-28T19:26:28.000Z",
+      "id": "1619416638151073792"
+    },
+    {
+      "author_id": "2855204605",
+      "text": "@austin_malerba @framer @chakra_ui I really want to make this in @threejs",
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 15,
+            "username": "austin_malerba",
+            "id": "1212993847355002880"
+          },
+          {
+            "start": 16,
+            "end": 23,
+            "username": "framer",
+            "id": "1056838028"
+          },
+          {
+            "start": 24,
+            "end": 34,
+            "username": "chakra_ui",
+            "id": "1244925393641123840"
+          },
+          {
+            "start": 65,
+            "end": 73,
+            "username": "threejs",
+            "id": "1155898067339501569"
+          }
+        ]
+      },
+      "edit_history_tweet_ids": ["1619397954686836736"],
+      "conversation_id": "1619351396331167744",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0,
+        "impression_count": 353
+      },
+      "created_at": "2023-01-28T18:12:14.000Z",
+      "id": "1619397954686836736"
+    },
+    {
+      "author_id": "776094875787726848",
+      "text": "@austin_malerba @framer @chakra_ui Awesome 😍😍😍",
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 15,
+            "username": "austin_malerba",
+            "id": "1212993847355002880"
+          },
+          {
+            "start": 16,
+            "end": 23,
+            "username": "framer",
+            "id": "1056838028"
+          },
+          {
+            "start": 24,
+            "end": 34,
+            "username": "chakra_ui",
+            "id": "1244925393641123840"
+          }
+        ]
+      },
+      "edit_history_tweet_ids": ["1619387427776495617"],
+      "conversation_id": "1619351396331167744",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "impression_count": 166
+      },
+      "created_at": "2023-01-28T17:30:24.000Z",
+      "id": "1619387427776495617"
+    },
+    {
+      "author_id": "2588511204",
+      "text": "@austin_malerba @framer @chakra_ui This is pretty sick! 🔥",
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 15,
+            "username": "austin_malerba",
+            "id": "1212993847355002880"
+          },
+          {
+            "start": 16,
+            "end": 23,
+            "username": "framer",
+            "id": "1056838028"
+          },
+          {
+            "start": 24,
+            "end": 34,
+            "username": "chakra_ui",
+            "id": "1244925393641123840"
+          }
+        ]
+      },
+      "edit_history_tweet_ids": ["1619368631091220482"],
+      "conversation_id": "1619351396331167744",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0,
+        "impression_count": 501
+      },
+      "created_at": "2023-01-28T16:15:42.000Z",
+      "id": "1619368631091220482"
+    },
+    {
+      "author_id": "256814530",
+      "text": "@austin_malerba @framer @chakra_ui You did it !",
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 15,
+            "username": "austin_malerba",
+            "id": "1212993847355002880"
+          },
+          {
+            "start": 16,
+            "end": 23,
+            "username": "framer",
+            "id": "1056838028"
+          },
+          {
+            "start": 24,
+            "end": 34,
+            "username": "chakra_ui",
+            "id": "1244925393641123840"
+          }
+        ]
+      },
+      "edit_history_tweet_ids": ["1619362010046812160"],
+      "conversation_id": "1619351396331167744",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0,
+        "impression_count": 335
+      },
+      "created_at": "2023-01-28T15:49:24.000Z",
+      "id": "1619362010046812160"
+    },
+    {
+      "author_id": "1292600626610872320",
+      "text": "@austin_malerba @framer @chakra_ui 👌✍️",
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 15,
+            "username": "austin_malerba",
+            "id": "1212993847355002880"
+          },
+          {
+            "start": 16,
+            "end": 23,
+            "username": "framer",
+            "id": "1056838028"
+          },
+          {
+            "start": 24,
+            "end": 34,
+            "username": "chakra_ui",
+            "id": "1244925393641123840"
+          }
+        ]
+      },
+      "edit_history_tweet_ids": ["1619353436839104513"],
+      "conversation_id": "1619351396331167744",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "impression_count": 193
+      },
+      "created_at": "2023-01-28T15:15:20.000Z",
+      "id": "1619353436839104513"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1552757680284094465/E6ZzN45P_normal.png",
+        "name": "Nenad Novaković",
+        "username": "dvlden",
+        "id": "1228773712658386946"
+      },
+      {
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1618352644027817986/GrxxxQUg_normal.jpg",
+        "name": "Hy Phan",
+        "username": "hy_pbs",
+        "id": "1446877937131614209"
+      },
+      {
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1368350841770549248/mwCAIWuU_normal.jpg",
+        "name": "Bryan",
+        "username": "Bryan47588123",
+        "id": "1368350346666475521"
+      },
+      {
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1616792617974435840/kWGieWmR_normal.jpg",
+        "name": "Anas Saidi",
+        "username": "anas_saii",
+        "id": "1492800648580112384"
+      },
+      {
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1524347233801748480/DPTof0Sl_normal.jpg",
+        "name": "''Amirthaz'' Krishnan",
+        "username": "amirthazz",
+        "id": "1290860653863788544"
+      },
+      {
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1610080001172377601/KzJQubh8_normal.jpg",
+        "name": "Pussx",
+        "username": "DrPussx",
+        "id": "1600802386217410562"
+      },
+      {
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1555282206041546757/4WwRv5jE_normal.jpg",
+        "name": "Moe bazzi",
+        "username": "_moebazzi",
+        "id": "1005097117"
+      },
+      {
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1588085633548836864/KQPmWkaS_normal.jpg",
+        "name": "Kunal",
+        "username": "drpkrp",
+        "id": "2855204605"
+      },
+      {
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1331293695069609991/EWaCq4PF_normal.jpg",
+        "name": "madu Emeka",
+        "username": "Modulo_script",
+        "id": "776094875787726848"
+      },
+      {
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1616470193340809220/HY4TAcDw_normal.jpg",
+        "name": "Nico Pellerin",
+        "username": "nicopellerin_io",
+        "id": "2588511204"
+      },
+      {
+        "profile_image_url": "https://pbs.twimg.com/profile_images/855274579337519104/qHHcEzuW_normal.jpg",
+        "name": "01000001",
+        "username": "0x41_0x4C",
+        "id": "256814530"
+      },
+      {
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1292601028718858242/HgupRn8r_normal.jpg",
+        "name": "Ben",
+        "username": "alafrayme",
+        "id": "1292600626610872320"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1619685562843299845",
+    "oldest_id": "1619353436839104513",
+    "result_count": 13
+  }
+}
