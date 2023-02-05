@@ -1,7 +1,7 @@
 import { Avatar } from "flowbite-react";
 import Moment from "react-moment";
 
-export default function MainTweet({ tweet, author }) {
+export default function MainTweet({ tweet, author }: any) {
   return (
     <section className="flex flex-col gap-4 border border-slate-200 bg-white dark:bg-gray-800 dark:border-gray-700 rounded-xl p-4 dark:text-white">
       <div className="flex gap-4">
