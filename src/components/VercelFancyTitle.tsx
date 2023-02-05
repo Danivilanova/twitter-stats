@@ -30,7 +30,7 @@ export default function VercelFancyTitle() {
             : "text-black dark:text-white")
         }
       >
-        Analize.{" "}
+        Analyze.{" "}
       </span>
       <span
         className={

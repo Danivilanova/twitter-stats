@@ -57,12 +57,12 @@ export default function Home(props: any) {
       </p>
       <div className="flex flex-col items-center gap-4 border border-slate-200 bg-white dark:bg-gray-800 dark:border-gray-700 rounded-xl p-4 dark:text-white">
         <h5 className="text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
-          Noteworthy technology acquisitions 2021
+          Analyze your replies
         </h5>
         <p className="font-normal text-gray-700 dark:text-gray-400">
-          Get started now by entering the tweet ID.
+          Get started now by entering the tweet ID
         </p>
-        <div className="flex gap-4 w-full">
+        <div className="flex max-sm:flex-col gap-4 w-full">
           <TextInput
             className="w-full grow"
             id="tweet"
@@ -82,12 +82,12 @@ export default function Home(props: any) {
                 <Spinner size="sm" light={true} />
               </div>
             )}
-            Analize
+            Analyze
           </Button>
         </div>
         <div className="w-full">
           <p className="mb-4">Examples:</p>
-          <div className="flex gap-4">
+          <div className="flex gap-4 flex-wrap">
             <Button
               onClick={() => setDefaultTweetId("1620466730572349442")}
               color="light"

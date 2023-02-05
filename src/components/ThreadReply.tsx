@@ -8,6 +8,7 @@ import ReplyIcon from "./icons/ReplyIcon";
 import RetweetIcon from "./icons/RetweetIcon";
 
 export default function ThreadReply({
+  index,
   tweet,
   author,
   sentiment,
@@ -16,17 +17,20 @@ export default function ThreadReply({
   return (
     <div
       key={tweet.id}
-      className="border-t border-slate-200 dark:border-gray-700 grid grid-cols-6 grid-rows-1"
+      className={
+        "border-slate-200 dark:border-gray-700 flex flex-col sm:grid grid-rows-2 sm:grid-cols-6 sm:grid-rows-1 " +
+        (index != 0 ? "border-t" : "")
+      }
     >
       <div className="grid grid-rows-1 grid-cols-10 gap-4 items-start col-span-5 p-4">
         <Avatar
-          className="col-span-1"
+          className="col-span-2 md:col-span-1"
           img={author.profile_image_url}
           size="md"
           rounded={true}
         />
-        <div className="col-span-9">
-          <div className="flex gap-2">
+        <div className="col-span-8 md:col-span-9">
+          <div className="flex gap-2 flex-wrap">
             <span className="font-bold">{author.name}</span>
             <span className="text-slate-600 dark:text-gray-400">
               @{author.username}
@@ -37,10 +41,12 @@ export default function ThreadReply({
           </div>
           {tweet?.entities?.mentions && (
             <div className="flex gap-2">
-              <span>Replying to</span>
-              {tweet?.entities?.mentions.map((m: any, idx: number) => (
-                <span key={idx}>@{m.username}</span>
-              ))}
+              <p className="text-sm text-slate-600">
+                <span>Replying to</span>
+                {tweet?.entities?.mentions.map((m: any, idx: number) => (
+                  <span key={idx}> @{m.username}</span>
+                ))}
+              </p>
             </div>
           )}
           <div className="break-words">
@@ -48,24 +54,24 @@ export default function ThreadReply({
               <p key={idx}>{t}</p>
             ))}
           </div>
-          <div className="flex flex-row gap-4 justify-between mt-2">
-            <div className="flex gap-2 items-center">
+          <div className="flex flex-row gap-2 sm:gap-4 justify-between mt-2">
+            <div className="flex gap-2 items-center max-sm:text-sm">
               <ReplyIcon /> {tweet.public_metrics.reply_count}
             </div>
-            <div className="flex gap-2 items-center">
+            <div className="flex gap-2 items-center max-sm:text-sm">
               <RetweetIcon /> {tweet.public_metrics.retweet_count}
             </div>
-            <div className="flex gap-2 items-center">
+            <div className="flex gap-2 items-center max-sm:text-sm">
               <LikeIcon /> {tweet.public_metrics.like_count}
             </div>
-            <div className="flex gap-2 items-center">
+            <div className="flex gap-2 items-center max-sm:text-sm">
               <ImpressionIcon /> {tweet.public_metrics.impression_count}
             </div>
           </div>
         </div>
       </div>
-      <div className="flex justify-center items-center col-span-1 p-4 border-l border-slate-200 dark:border-gray-700">
-        <div className="flex flex-col gap-2 items-center">
+      <div className="flex justify-center items-center col-span-1 p-4 border-t sm:border-t-0 sm:border-l border-slate-200 dark:border-gray-700">
+        <div className="flex sm:flex-col gap-2 items-center">
           <span
             className={
               "flex gap-2 " +

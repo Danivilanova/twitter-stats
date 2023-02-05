@@ -12,6 +12,7 @@ export default function Thread({
         return (
           <ThreadReply
             key={idx}
+            index={idx}
             tweet={c}
             author={threadAuthors[c.author_id]}
             sentiment={sentiments && sentiments[idx]}
