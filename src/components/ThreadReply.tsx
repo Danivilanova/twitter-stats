@@ -7,7 +7,12 @@ import PositiveIcon from "./icons/PositiveIcon";
 import ReplyIcon from "./icons/ReplyIcon";
 import RetweetIcon from "./icons/RetweetIcon";
 
-export default function ThreadReply({ tweet, author, sentiment, language }) {
+export default function ThreadReply({
+  tweet,
+  author,
+  sentiment,
+  language,
+}: any) {
   return (
     <div
       key={tweet.id}
@@ -33,7 +38,7 @@ export default function ThreadReply({ tweet, author, sentiment, language }) {
           {tweet?.entities?.mentions && (
             <div className="flex gap-2">
               <span>Replying to</span>
-              {tweet?.entities?.mentions.map((m, idx) => (
+              {tweet?.entities?.mentions.map((m: any, idx: number) => (
                 <span key={idx}>@{m.username}</span>
               ))}
             </div>

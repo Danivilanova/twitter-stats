@@ -30,14 +30,14 @@ export async function getStaticProps(context: any) {
   let thread = threadData.data;
   // Getting the replies
   const replyTo = tweet.entities?.mentions
-    ? [...tweet.entities.mentions.map((m) => m.id), author.id]
+    ? [...tweet.entities.mentions.map((m: any) => m.id), author.id]
     : [];
 
   // Cleaning mentions from text message
   if (replyTo.length > 0) {
-    thread.forEach((t, idx) => {
+    thread.forEach((t: any, idx: number) => {
       if (t.entities?.mentions) {
-        t.entities.mentions = t.entities.mentions.filter((m) =>
+        t.entities.mentions = t.entities.mentions.filter((m: any) =>
           replyTo.includes(m.id)
         );
         const lastMention = t.entities.mentions.slice(-1)[0];
@@ -46,7 +46,7 @@ export async function getStaticProps(context: any) {
       }
     });
 
-    thread = thread.filter((x) => x.text != "");
+    thread = thread.filter((x: any) => x.text != "");
   }
 
   const threadAuthors = Object.fromEntries(
@@ -85,10 +85,10 @@ any) {
   const [embeddings, setEmbeddings] = useState();
   const [clusters, setClusters] = useState();
 
-  const texts = thread.map((x) => x.text);
+  const texts = thread.map((x: any) => x.text);
 
   useEffect(() => {
-    const inputs = thread.map((t) => t.text);
+    const inputs = thread.map((t: any) => t.text);
 
     getSentiment(inputs).then((result) => {
       setSentiments(result);

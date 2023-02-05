@@ -4,7 +4,7 @@ import NavbarT from "./Navbar";
 import FooterT from "./Footer";
 import { Flowbite } from "flowbite-react";
 
-export default function Layout({ children }) {
+export default function Layout({ children }: any) {
   return (
     <Flowbite>
       <NavbarT />

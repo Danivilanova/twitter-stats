@@ -5,7 +5,7 @@ export default function Thread({
   threadAuthors,
   sentiments,
   languages,
-}) {
+}: any) {
   return (
     <section className="bg-white border border-slate-200 rounded-xl dark:bg-gray-800 dark:border-gray-700">
       {thread.map((c: any, idx: number) => {
