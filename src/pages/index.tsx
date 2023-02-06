@@ -75,7 +75,7 @@ export default function Home(props: any) {
           <Button
             onClick={handleClick}
             disabled={loading || !exists}
-            gradientDuoTone="purpleToBlue"
+            gradientDuoTone="cyanToBlue"
           >
             {loading && (
               <div className="mr-3">

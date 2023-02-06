@@ -1,3 +1,4 @@
+import { Button } from "flowbite-react";
 import Link from "next/link";
 
 export default function FourOhFour() {
@@ -14,13 +15,9 @@ export default function FourOhFour() {
           <p className="mt-4 mb-8 text-gray-600 dark:text-gray-400">
             But dont worry, you can find plenty of other things on our homepage.
           </p>
-          <Link
-            rel="noopener noreferrer"
-            href="/"
-            className="px-8 py-3 font-semibold rounded text-white bg-cyan-500 dark:bg-cyan-400  dark:text-gray-900"
-          >
+          <Button href="/" gradientDuoTone="cyanToBlue">
             Back to homepage
-          </Link>
+          </Button>
         </div>
       </div>
     </section>
