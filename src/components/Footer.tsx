@@ -10,7 +10,11 @@ export default function FooterT() {
           by="Dani Vilanova"
           year={2023}
         />
-        <Footer.Icon className="" href="" icon={GithubIcon} />
+        <Footer.Icon
+          className=""
+          href="https://github.com/Danivilanova/twitter-stats"
+          icon={GithubIcon}
+        />
       </div>
     </Footer>
   );
